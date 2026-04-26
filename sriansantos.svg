@@ -185,41 +185,7 @@
     </g>
   </g>
 
-  <!-- ═══════════ COMBO LIST (right) ═══════════ -->
-  <text x="597" y="48" text-anchor="middle" font-family="monospace" font-size="10" fill="#00ffa3" opacity="0.7">— COMBO LIST —</text>
-
-  <!-- SpringBoot -->
-  <g style="animation: float 2.6s ease-in-out infinite 0s;" transform="translate(530,54)">
-    <rect width="132" height="30" rx="7" fill="#14532d" stroke="#22c55e" stroke-width="0.8"/>
-    <text x="10" y="12" font-family="monospace" font-size="9"  fill="#86efac">🌱 SpringBoot</text>
-    <text x="10" y="24" font-family="monospace" font-size="8"  fill="#4ade80">@RestController ▶</text>
-  </g>
-  <!-- WordPress -->
-  <g style="animation: floatB 3.0s ease-in-out infinite 0.5s;" transform="translate(530,92)">
-    <rect width="132" height="30" rx="7" fill="#1e3a8a" stroke="#3b82f6" stroke-width="0.8"/>
-    <text x="10" y="12" font-family="monospace" font-size="9"  fill="#93c5fd">⬡ WordPress</text>
-    <text x="10" y="24" font-family="monospace" font-size="8"  fill="#60a5fa">wp-api.php ▶</text>
-  </g>
-  <!-- Docker -->
-  <g style="animation: float 2.9s ease-in-out infinite 0.9s;" transform="translate(530,130)">
-    <rect width="132" height="30" rx="7" fill="#7c2d12" stroke="#fb923c" stroke-width="0.8"/>
-    <text x="10" y="12" font-family="monospace" font-size="9"  fill="#fed7aa">🐳 Docker</text>
-    <text x="10" y="24" font-family="monospace" font-size="8"  fill="#fb923c">run --it srs:v1 ▶</text>
-  </g>
-  <!-- N8N -->
-  <g style="animation: floatB 3.3s ease-in-out infinite 0.3s;" transform="translate(530,168)">
-    <rect width="132" height="30" rx="7" fill="#4a1d96" stroke="#a78bfa" stroke-width="0.8"/>
-    <text x="10" y="12" font-family="monospace" font-size="9"  fill="#c4b5fd">⚙ N8N</text>
-    <text x="10" y="24" font-family="monospace" font-size="8"  fill="#a78bfa">automate.flow() ▶</text>
-  </g>
-  <!-- Git -->
-  <g style="animation: float 2.4s ease-in-out infinite 1.2s;" transform="translate(530,206)">
-    <rect width="132" height="30" rx="7" fill="#7c1d1d" stroke="#f87171" stroke-width="0.8"/>
-    <text x="10" y="12" font-family="monospace" font-size="9"  fill="#fca5a5">⎇ Git</text>
-    <text x="10" y="24" font-family="monospace" font-size="8"  fill="#f87171">git push --force ▶</text>
-  </g>
-
-  <!-- ═══════════ STATUS BAR (bottom) ═══════════ -->
+ <!-- ═══════════ STATUS BAR (bottom) ═══════════ -->
   <rect x="18" y="238" width="644" height="108" rx="8" fill="#0d1117" stroke="#00ffa3" stroke-width="0.7" opacity="0.95"/>
   <rect x="18" y="238" width="644" height="18"  rx="8" fill="#00ffa3" opacity="0.07"/>
   <text x="30" y="251" font-family="monospace" font-size="8.5" fill="#00ffa3" opacity="0.55">STATUS ■ sriansantos.exe ■ v1.0</text>
