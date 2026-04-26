@@ -155,7 +155,7 @@
     <rect x="35" y="44" width="14" height="4" rx="2" fill="#92400e"/>
     <!-- headband -->
     <rect x="24" y="22" width="36" height="7" rx="3" fill="#dc2626"/>
-    <text x="28" y="30" font-family="monospace" font-size="6" fill="#fff" font-weight="bold">SRS</text>
+    <text x="28" y="30" font-family="monospace" font-size="6" fill="#fff" font-weight="bold">Rian</text>
     <!-- glasses -->
     <rect x="29" y="30" width="10" height="9" rx="2" fill="none" stroke="#00ffa3" stroke-width="1.2"/>
     <rect x="45" y="30" width="10" height="9" rx="2" fill="none" stroke="#00ffa3" stroke-width="1.2"/>
