@@ -197,7 +197,7 @@
   <text x="30"  y="274" font-family="monospace" font-size="10" fill="#6b7280">POWER</text>
   <rect x="86"  y="264" width="160" height="11" rx="5" fill="#1f2937"/>
   <rect x="86"  y="264" width="52"  height="11" rx="5" fill="#ffd700" style="animation: hpgrow 1.2s ease-out both 0.5s;"/>
-  <text x="254" y="274" font-family="monospace" font-size="9" fill="#fcd34d" id="commits-label">38 commits</text>
+  <text x="254" y="274" font-family="monospace" font-size="9" fill="#fcd34d" id="commits-label">65 commits</text>
 
   <!-- XP bar -->
   <text x="30"  y="294" font-family="monospace" font-size="10" fill="#6b7280">XP</text>
