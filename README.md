@@ -4,23 +4,7 @@
 **`Desenvolvedor Back_end`**
 
 Me chamo Rian Carlos dos Santos Brito, tenho 21 anos, sou estudante de Ciência da Computação pela Unip, atualmente no sexto período. Buscando minha primeira expêriencia no mercado de tecnologia para aprimorar minhas habilidades como desenvolvedor.
-    <a href="https://github.com/sriansantos?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/sriansantos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/sriansantos?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/sriansantos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -155,7 +139,7 @@ Me chamo Rian Carlos dos Santos Brito, tenho 21 anos, sou estudante de Ciência 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriansantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="(https://github-readme-stats.vercel.app/api?username=sriansantos&show_icons=true&bg_color=00000000)" 
   />
 
 </p>
