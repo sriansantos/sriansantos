@@ -1,4 +1,4 @@
-## Rian Carlos  👋
+## Rian Carlos 
 
 
 **`Desenvolvedor Back_end`**
