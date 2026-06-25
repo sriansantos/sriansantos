@@ -18,7 +18,7 @@ Me chamo Rian Carlos dos Santos Brito, tenho 21 anos, sou estudante de Ciência 
 />
 <div align="center">
   <a href="[Bootstrap]">
-    <img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/[Dark]/[Bootstrap].svg"> 
+    <img alt="[Bootstrap]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/[Dark]/[Bootstrap].svg"> 
   </a>
 </div>
 
