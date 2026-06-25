@@ -6,11 +6,18 @@
 Me chamo Rian Carlos dos Santos Brito, tenho 21 anos, sou estudante de Ciência da Computação pela Unip, atualmente no sexto período. Buscando minha primeira expêriencia no mercado de tecnologia para aprimorar minhas habilidades como desenvolvedor.
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,notion,postman,supabase,bootstrap,cloudflare,css,docker,git,github,heroku,html,java,postgres,r,wordpress" />
+    <img src="https://skillicons.dev/icons?i=mysql,html,java,python" />
+  </a>
+</p>
+### 🤖 Aplicações
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,notion,postman,supabase,bootstrap,cloudflare,css,docker,git,github,heroku,postgres,wordpress" />
   </a>
 </p>
 
