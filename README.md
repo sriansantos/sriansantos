@@ -34,7 +34,8 @@ Me chamo Rian Carlos dos Santos Brito, tenho 21 anos, sou estudante de Ciência 
 
 <h3>💻 GitHub Profile Stats</h3>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriansantos)](https://github.com/sriansantos/github-readme-stats)  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sriansantos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sriansantos/github-readme-stats#gh-dark-mode-only)
+  
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sriansantos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sriansantos/github-readme-stats#gh-dark-mode-only)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriansantos)](https://github.com/sriansantos/github-readme-stats)  
   <br/>
   
   </p>
