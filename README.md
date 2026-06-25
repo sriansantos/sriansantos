@@ -8,7 +8,7 @@ Me chamo Rian Carlos dos Santos Brito, tenho 21 anos, sou estudante de Ciência 
 
 ### 🤖 Linguagens
 <br/>
-<p align="center">
+<p align="rigth">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,html,java,python" />
   </a>
