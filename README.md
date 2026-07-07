@@ -18,7 +18,7 @@ Me chamo Rian Carlos dos Santos Brito, tenho 21 anos, sou estudante de Ciência 
 <br/>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,notion,postman,supabase,bootstrap,cloudflare,css,docker,git,github,heroku,postgres,wordpress" />
+    <img src="https://skillicons.dev/icons?i=mongodb,notion,postman,supabase,bootstrap,cloudflare,css,docker,git,github,heroku,postgres,wordpress,AWS" />
   </a>
 </p>
 
